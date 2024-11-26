@@ -1,0 +1,66 @@
+{
+  "Story": {
+    "Name": "Matthew Turner",
+    "Items": [
+      {
+        "ItemType": 1,
+        "Key": 35
+      },
+      {
+        "ItemType": 2,
+        "Key": 36
+      },
+      {
+        "ItemType": 1,
+        "Key": 37
+      },
+      {
+        "ItemType": 2,
+        "Key": 38
+      },
+      {
+        "ItemType": 2,
+        "Key": 39
+      },
+      {
+        "ItemType": 1,
+        "Key": 40
+      }
+    ],
+    "Images": [
+      {
+        "Key": 35,
+        "Filename": "MatthewTurner.png"
+      },
+      {
+        "Key": 37,
+        "Filename": "Code.PNG"
+      },
+      {
+        "Key": 40,
+        "Filename": "OxfordWalk.jpg"
+      }
+    ],
+    "YoutubeVideos": [],
+    "Texts": [
+      {
+        "Key": 36,
+        "Paragraphs": [
+          "Hi, I'm Matthew, a self-starting Software Engineer and Technical Lead capable of designing and delivering functional products, and coaching teams to follow best practices and develop a DevSecOps mindset."
+        ]
+      },
+      {
+        "Key": 38,
+        "Paragraphs": [
+          "I understand that people are at the heart of any organisation and I try to base my principles off this - products should meet the needs of the users, be cost-effective budget holders, and be written such that the code is easy for the development team to work with."
+        ]
+      },
+      {
+        "Key": 39,
+        "Paragraphs": [
+          "Outside of work I enjoy playing hockey, countryside walks, and giving back to the community."
+        ]
+      }
+    ]
+  }
+}

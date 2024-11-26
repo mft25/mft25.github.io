@@ -1,0 +1,22 @@
+{
+  "Pages": [
+    {
+      "Name": "Home",
+      "Path": "/",
+      "PageType": 6,
+      "Context": "9"
+    },
+    {
+      "Name": "CV",
+      "Path": "/cv",
+      "PageType": 4,
+      "Context": "cv-matthew-turner.pdf"
+    },
+    {
+      "Name": "Projects",
+      "Path": "/personal-projects",
+      "PageType": 6,
+      "Context": "10"
+    }
+  ]
+}

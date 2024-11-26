@@ -1,0 +1,66 @@
+{
+  "Story": {
+    "Name": "Personal Projects",
+    "Items": [
+      {
+        "ItemType": 2,
+        "Key": 41
+      },
+      {
+        "ItemType": 3,
+        "Key": 42
+      },
+      {
+        "ItemType": 2,
+        "Key": 43
+      },
+      {
+        "ItemType": 3,
+        "Key": 44
+      },
+      {
+        "ItemType": 2,
+        "Key": 45
+      },
+      {
+        "ItemType": 3,
+        "Key": 46
+      }
+    ],
+    "Images": [],
+    "YoutubeVideos": [
+      {
+        "Key": 42,
+        "EmbedUrl": "https://www.youtube.com/embed/mwulkAjcNYU"
+      },
+      {
+        "Key": 44,
+        "EmbedUrl": "https://www.youtube.com/embed/7dvwakM3CE4"
+      },
+      {
+        "Key": 46,
+        "EmbedUrl": "https://www.youtube.com/embed/L9uKgFo8WL0"
+      }
+    ],
+    "Texts": [
+      {
+        "Key": 41,
+        "Paragraphs": [
+          "Having seen the quantity of restaurants in Paris without an online presence, I developed a system to quickly generate static websites for small businesses. During this time I learned the importance of business development, while maintaining technical excellence. The video below goes into some technical details of the system, which I have used to deploy this very website."
+        ]
+      },
+      {
+        "Key": 43,
+        "Paragraphs": [
+          "To learn the Angular front end framework, I coded a website that allowed me to see details of the exit maps of Metro stations. This was for my own personal use as I could not source the data needed in bulk, so I had fun collating the images based on the places I had visisted."
+        ]
+      },
+      {
+        "Key": 45,
+        "Paragraphs": [
+          "When the official website for displaying fixtures and tables for my hockey club was not mobile friendly, I wrote a simple skin that scraped the data and displayed it in a responsive format."
+        ]
+      }
+    ]
+  }
+}
